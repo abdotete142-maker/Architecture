@@ -191,15 +191,12 @@ nav{
     margin-top: 8rem;
 }
 .ca{
+    transition: 0.3s ease all;
     width: auto;
     height: auto;
-    border: none;  
-    margin: 70px;
-    padding: 10px;
-    transition: 0.3s ease all;
-    box-shadow: 1px 1px 7px rgba(5, 5, 5, 0.973);
-}
+    margin-bottom: 20px;
 
+}
 .ca:hover{
     transform: scale(1.09);
 }
@@ -229,3 +226,4 @@ h4{
 .if{
     margin-top: 5rem;
 }
+
